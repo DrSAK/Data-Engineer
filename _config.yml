@@ -1,14 +1,6 @@
-title: DrSak - Data Engineer en GCP
-email: simonrancona@gmail.com
 
 baseurl: "/Data-Engineer" # on local execute bundle exec jekyll serve --baseurl=""
 url: ""
-
-twitter_username: _DrSAK
-github_username: DrSAK
-
-layouts_dir: _layouts
-highlighter: rouge
 
 plugins:
   - jekyll-feed
