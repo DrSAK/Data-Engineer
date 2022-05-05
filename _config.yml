@@ -2,5 +2,14 @@
 baseurl: "/Data-Engineer" # on local execute bundle exec jekyll serve --baseurl=""
 url: ""
 
+layouts_dir: _layouts
+includes_dir: _includes
+sass:
+  sass_dir: _sass
+
+highlighter: rouge
+excerpt_separator: "\n\n"
+
+
 plugins:
   - jekyll-feed

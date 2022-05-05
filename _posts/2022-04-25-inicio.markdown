@@ -2,7 +2,6 @@
 layout: post
 title:  "Inicio"
 date:   2022-04-25 18:39:20 -0600
-categories: GCP AI Google MachineLearning
 image: /assets/images/posts/Inicio/google-lap.jpg
 
 ---

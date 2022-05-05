@@ -2,7 +2,6 @@
 layout: post
 title: "Fundamentos de Big Data y Machine Learning"
 date:   2022-04-25 14:37:43 -0600
-categories: GCP Machine Learning
 image: /assets/images/posts/MachineLearning/Machine-Learning.jpg
 
 ---
