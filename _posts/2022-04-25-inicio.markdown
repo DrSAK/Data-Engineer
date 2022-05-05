@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Inicio"
+date:   2022-04-25 18:39:20 -0600
+categories: GCP AI Google MachineLearning
+image: /assets/images/posts/Inicio/google-lap.jpg
+
+---
+Bienvenido, mi nombre es Simón Ancona y en este momento me encuentro iniciado un curso de certificación como Data Engineer.
+
+El objetivo de este repositorio es compartir el conocimiento clave y facilitar el estudio a más personas.
+
+En el futuro pienso agregar algunos videos con ejercicios pero de momento empezaré por compartir mis notas, al estar iniciando también en este camino hacia la certificación cualquier error que se detecte o necesiadad de profundizar aún más será siempre bien recibido, para que me puedan mandar mensajes habilitaré las siguientes redes sociales donde me encontraran como Dr. SAK 😁🤳🐱‍👤.
+
+Google cuenta con algunos paths definidos para abordar todos los temas necesarios, trataré de respetar esos mismos paths en cada una de las etapas, generando una carpeta por cada step, de igual manera una subcarpeta para subtemas (Cuando aplique), finalmente en todos los lugares que requieran abreviaturas las podrán consultar al final de este README, los steps planteados son:
+
+- Step 1: Google Cloud Platform Big Data and Machine Learning Fundamentals
+
+- Step 2: Data Engineering on Google Cloud Platform
+
+- Step 4: Create and Manage Cloud Resources
+
+- Step 5: Perform Foundational Data, ML, and AI Tasks in Google Cloud
+
+- Step 6: Engineer Data in Google Cloud
+
+- Step 8: Professional Data Engineer Exam
+
+Desconozco el motivo por que se saltan el step 3 y step 7 pero al menos así viene marcado en la ruta de estudio que me tocó.

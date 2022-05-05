@@ -1,0 +1,28 @@
+---
+layout: default
+---
+<main>
+    <div class="blogpost-card-container">
+        <section class="blogpost-img-container">
+            {% if page.image %}
+                <img class="post-image" src="{{ page.image }}" alt="">
+            {% endif%}
+        </section>
+        <section class="blogpost-main-container">
+            <div class="blogpost-text-container">
+                <h3>
+                    {% if page.title %}
+                        {{page.title}}
+                    {% endif %}
+                </h3>
+                <span>{{ page.date | date: "%b %d, %Y" }}</span>
+                <article> 
+                    <p>{{ content }}</p>
+                </article>
+            </div>
+        </section>
+    </div>
+</main>
+
+
+

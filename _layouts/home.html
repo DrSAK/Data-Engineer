@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<main class="home-main">
+    <section class="card__wrap--outer">            
+            {% for post in site.posts %}
+            <article class="card__wrap--inner">
+                <a class="card" href="{{ post.url | relative_url }}">
+                    {% if post.image %}
+                        <img  src="{{ post.image }}" alt="">
+                    {% endif %}
+                    <p class="card__item flexible"> {{ post.title }} </p>
+                    {% if post.date %}
+                        <p class="card__sub">{{ post.date | date: "%b %d, %Y" }}</p>
+                    {% endif %}
+                </a>
+            </article>
+            {% endfor %}
+    </section>
+</main>
