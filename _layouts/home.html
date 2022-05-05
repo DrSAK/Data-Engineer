@@ -8,7 +8,7 @@ layout: default
             <article class="card__wrap--inner">
                 <a class="card" href="{{ post.url | relative_url }}">
                     {% if post.image %}
-                        <img  src="{{ post.image }}" alt="">
+                        <img  src="{{ post.image | relative_url }}" alt="">
                     {% endif %}
                     <p class="card__item flexible"> {{ post.title }} </p>
                     {% if post.date %}

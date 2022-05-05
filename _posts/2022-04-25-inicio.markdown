@@ -2,7 +2,7 @@
 layout: post
 title:  "Inicio"
 date:   2022-04-25 18:39:20 -0600
-image: {{ "/assets/images/posts/Inicio/google-lap.jpg" | relative_url }}
+image: /assets/images/posts/Inicio/google-lap.jpg
 
 ---
 Bienvenido, mi nombre es Simón Ancona y en este momento me encuentro iniciado un curso de certificación como Data Engineer.

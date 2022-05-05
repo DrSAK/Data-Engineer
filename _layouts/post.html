@@ -5,7 +5,7 @@ layout: default
     <div class="blogpost-card-container">
         <section class="blogpost-img-container">
             {% if page.image %}
-                <img class="post-image" src="{{ page.image }}" alt="">
+                <img class="post-image" src="{{ page.image | relative_url }}" alt="">
             {% endif%}
         </section>
         <section class="blogpost-main-container">
